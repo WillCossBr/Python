@@ -121,7 +121,7 @@ valor_pi = 3.14159265358979323846
 print(f'O valor de PI é: {valor_pi:.2f}')
 print('\n')
 
-#caracteres especias com, f-string
+#caracteres especias com f-string
 print("caracteres especiais (\'$%etc...)")
 print(f'nome:{nome} \tidade:{idade}')
 
