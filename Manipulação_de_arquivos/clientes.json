@@ -1,0 +1,36 @@
+{
+    "clientes":
+    [
+        {
+            "id": 1,
+            "Nome": "João Paulo",
+            "idade": 18,
+            "telefone": "(11)1 1111-1111",
+            "email": "joao.pedro@gmail.com",
+            "endereço":
+            {
+                "Rua": "Rua 1",
+                "Bairro": "Bairro 1",
+                "Cidade": "Cidade 1",
+                "Estado": "Estado 1",
+                "cep": "11111-111"
+            }
+        },
+
+        {
+            "id": 2,
+            "Nome": "Miguel da Silva",
+            "idade": 24,
+            "telefone": "(01) 9 5556-9999",
+            "email": "miguel.123@gmail.com",
+            "endereço":
+            {
+                "Rua": "Rua 2",
+                "Bairro": "Bairro 2",
+                "Cidade": "Cidade 2",
+                "Estado": "Estado 2",
+                "cep": "22222-222"
+            } 
+        }
+    ]
+}
