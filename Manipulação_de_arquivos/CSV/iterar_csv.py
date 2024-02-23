@@ -3,7 +3,7 @@ import csv
 print(30*'-')
 print("Iterando arquivos CSV: ")
 
-with open('/home/william/Python/Manipula_Arqs/produtos.csv', mode='r', encoding='utf-8') as arq:
+with open('/home/william/Python/Manipula_Arqs/CSV/produtos.csv', mode='r', encoding='utf-8') as arq:
     leitor = csv.reader(arq)
 
     ultimo_registro = 5
