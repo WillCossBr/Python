@@ -4,7 +4,7 @@ import csv
 registro_novo = ["6:00","12:00","14:30","20:00"]
 
 #caminho do arquivo a ser escrito
-diretório = '/home/william/Python/Manipula_Arqs/despertador.csv'
+diretório = '/home/william/Python/Manipula_Arqs/CSV/despertador.csv'
 
 #modo 'a' (append) adiciona dados no final do arquivo
 with open(diretório, 'a', newline='') as desp:
