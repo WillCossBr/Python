@@ -18,7 +18,7 @@ print('\n')
 import json
 
 #variavel com o caminho do arquivo
-endereço = "/home/william/Python/Manipula_Arqs/clientes.json"
+endereço = "/home/william/Python/Manipula_Arqs/Json/clientes.json"
 
 #with = abre e fecha o arquivo
 #open = ('caminho' + modo(leitura=r, ou escrita=w))
