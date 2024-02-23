@@ -1,0 +1,17 @@
+<bebidas>
+
+    <bebida1>
+        <categoria>Cerveja</categoria>
+        <nome>Skol Pilsen</nome>
+        <preco>R$3,00</preco>
+        <quantidade>350ml</quantidade>
+    </bebida1>
+
+    <bebida2>
+        <categoria>Vinho</categoria>
+        <nome>Pérgola Suave</nome>
+        <preco>R$20,00</preco>
+        <quantidade>1l</quantidade>
+    </bebida2>
+
+</bebidas>
