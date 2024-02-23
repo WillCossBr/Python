@@ -15,7 +15,7 @@ dados = {
 }
 
 #endereço do arquivo que deseja editar
-local = "/home/william/Python/Manipula_Arqs/fornecedores.json"
+local = "/home/william/Python/Manipula_Arqs/Json/fornecedores.json"
 
 #editar o arquivo:
 with open(local, 'w') as fornecedores:
