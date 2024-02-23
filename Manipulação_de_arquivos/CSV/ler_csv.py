@@ -9,7 +9,7 @@ import csv
 print(30*'-')
 print("Abrindo arquivos CSV: ")
 
-with open('/home/william/Python/Manipula_Arqs/funcionários.csv', mode='r', encoding='utf-8') as arq:
+with open('/home/william/Python/Manipula_Arqs/CSV/funcionários.csv', mode='r', encoding='utf-8') as arq:
     leitor = csv.reader(arq)
 
     for linha in leitor:
